@@ -192,12 +192,10 @@ data/
 /models
 *.model
 *.vocab
-*.txt
 *.gz
 *.xml
 *.npy
 gnews_model_wv
-*.txt
 *.keras
 *.csv
 *.mp3
